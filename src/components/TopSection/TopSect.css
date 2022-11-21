@@ -1,0 +1,81 @@
+@font-face {
+    font-family: Sora;
+    src: url(/home/Max/Documentos/projetos/react-app/src/_assets/fonts/sora/Sora-Regular.ttf);
+}
+.top-section{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background: #060714;
+    width: 100%;
+    vertical-align: center;
+    color: #7780A1;
+    position: relative;
+    padding: 5%;
+    align-content: center;
+    min-height: 70px;   
+   
+}
+.nav-menu{
+    display: flex;
+    flex-direction: row;
+    font-family: 'Sora';
+    position: relative;
+    width: 30%;
+    gap: 3%;
+    font-size: clamp(8px, 1.5vw, 25px); 
+    /* On White/Grey 100 */
+    color: #7780A1;
+    margin-top: 1.5%;
+    
+    
+}
+.nav-menu-link{
+    font-size: clamp(8px, 3vw, 15px); /* Função para limitar o tamanho da fonte em um intervalo*/font-size: clamp(8px, 15px, 30px);
+}
+.btn-container{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    gap: 3%;
+    width:15%;
+    height: min-content;
+    align-items:flex-end;
+    
+    padding-top: 1%;
+    padding-right: -10px;
+    
+}
+.btn-aditional{
+    background-color: linear-gradient(104.42deg, #4745D0 0%, #2A27C9 60.23%);
+    box-shadow: inset -4px -4px 4px rgba(0, 0, 0, 0.1), inset 4px 4px 4px rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    display: flex;
+    flex-direction: row;
+    font-size: clamp(8px, 1vw, 30px);
+    min-width: 70px;
+    min-height: 65px;
+    align-content: center;
+    max-width:fit-content;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    
+  
+}
+
+.logo{
+  height: clamp(15px, 2vw, 120px); ;
+  background-color: #060714;
+  margin: 0px;
+  
+}
+.logo-container{
+   position: relative;
+   width: 5%;
+   min-width: 50px;
+   margin-top: 0.5%;
+   
+  
+   
+}

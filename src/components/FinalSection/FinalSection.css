@@ -1,0 +1,63 @@
+
+.final-section{
+    display: flex;
+    border:solid 2px #7780A1;
+    flex-direction: row;
+    position: relative;
+    background-color: #060714;
+}
+.section-default{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    padding: 6%;
+    font-family: Sora;
+    color: white;
+
+}
+.section-form{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    padding: 3%;
+    padding-bottom: 20%;
+    font-family: Sora;
+    border:solid 2px #7780A1;
+    align-content: center;
+    vertical-align: center;
+    gap: 5%;
+    
+     
+
+}
+.nav-menu-2{
+    gap: 30%;
+}
+.nav-menu-2{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+.final-section-2 {
+    position: relative;
+    
+  
+}
+.final-section-1{
+  
+    border-radius: 15px 0px 0px 15px;
+    
+   
+}
+ .final-section-3{
+    
+    border-radius: 0px 15px 15px 0px;
+   
+   
+  
+}
+.icons{
+    display: flex;
+    position: relative;
+    gap: 5%;
+}

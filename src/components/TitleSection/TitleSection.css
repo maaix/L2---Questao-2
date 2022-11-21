@@ -1,0 +1,68 @@
+.title-section{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    font-family: 'Sora';
+    font-style: normal;
+    height: 100%;
+    position: relative;
+    width: 100%;
+    
+}
+.background-image{
+    position: relative;
+    background-color: #060714;
+    align-self: center;
+    background: linear-gradient( #060714 10%, #10153c 90%);
+    
+}
+.title-header{
+   
+   text-align: center;
+   align-items: center;
+   width: 40%;
+   height: 40%;
+   min-width: 400px;
+   max-height: 300px;
+   top: 40%;
+   transform: translate(-50%,-30%);
+}
+.main-title {
+    font-size: clamp(30px, 5vw, 120px); 
+    color: white;
+    font-style: bold;
+    font-weight: 600;
+    letter-spacing: 0.7px;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: clamp(8px, 1.5vw, 25px); 
+    line-height: 18px;
+    letter-spacing: 3px;
+
+
+    /* On White/Grey 100 */
+
+    color: #7780A1;
+}
+.vector{
+    width: clamp(15px, 2vw, 120px); ;
+    height: clamp(30px, 5vw, 120px); ;
+}
+.frame{
+    width: clamp(15px, 5vw, 120px); ;
+    height: clamp(30px, 5vw, 120px); ;
+}
+.logos{
+    display: flex;
+    flex-direction: row;
+    margin-right: 30%;
+    margin-left: -25%;
+    margin-top: 20%;
+    gap: 10%;
+    top: 40%;
+   transform: translate(-50%,-30%);
+}

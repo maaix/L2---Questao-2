@@ -1,0 +1,52 @@
+
+
+.get-started-section{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    background-color: #060714;
+    align-items: center;
+    height: max-content;
+    padding: 5%;
+    height: 100%;
+    border-bottom: solid 2px #7780A1;
+    
+    
+  
+}
+.left-container{
+    
+    display: flex;
+    flex-direction: column;
+    letter-spacing: 0.2px;
+    color: #7780A1;
+    font-family: 'Sora';
+    font-style: normal;
+
+}
+h1{
+    
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 100%;
+    color: #FFFFFF;
+}
+
+.right-image{
+    height: 60%;
+    max-width: fit-content;
+}
+
+.btn-contain{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 16px 24px;
+    gap: 3%;
+    max-width: fit-content;
+    width: 60%;
+    height: 30%;
+    margin-top: 1.5%;
+    
+
+}
