@@ -26,7 +26,7 @@ const imgShape = {
 function Cards(){
     return (
         <div className="cards-area">
-            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+            <div id="carouselExampleControls" class="carousel slide" data-bs-interval="false">
                 <div class="carousel-inner">
                     
                     
