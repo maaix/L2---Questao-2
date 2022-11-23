@@ -1,12 +1,12 @@
 import './Cards.css'
 
-import users from '/home/Max/Documentos/projetos/react-app/src/_assets/Avatars.svg'
-import heart from '/home/Max/Documentos/projetos/react-app/src/_assets/hearticon.svg'
-import image from '/home/Max/Documentos/projetos/react-app/src/_assets/Image.svg'
-import image1 from '/home/Max/Documentos/projetos/react-app/src/_assets/Image1.svg'
-import image2 from '/home/Max/Documentos/projetos/react-app/src/_assets/image2.svg'
-import image3 from '/home/Max/Documentos/projetos/react-app/src/_assets/Image3.svg'
-import image4 from '/home/Max/Documentos/projetos/react-app/src/_assets/Image4.svg'
+import users from './avatares.svg'
+import heart from '/home/Max/Documentos/projetos/Questao2/src/_assets/hearticon.svg'
+import image from '/home/Max/Documentos/projetos/Questao2/src/_assets/Image.svg'
+import image1 from '/home/Max/Documentos/projetos/Questao2/src/_assets/Image1.svg'
+import image2 from '/home/Max/Documentos/projetos/Questao2/src/_assets/image2.svg'
+import image3 from '/home/Max/Documentos/projetos/Questao2/src/_assets/Image3.svg'
+import image4 from '/home/Max/Documentos/projetos/Questao2/src/_assets/Image4.svg'
 const cardShape = {
     background: '#060714',
     border: 'solid 1px #7780A1'

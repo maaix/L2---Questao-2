@@ -1,9 +1,9 @@
-import fulllogo from '/home/Max/Documentos/projetos/react-app/src/_assets/fulllogo.svg'
-import instagram from '/home/Max/Documentos/projetos/react-app/src/_assets/instagram.svg'
-import facebook from '/home/Max/Documentos/projetos/react-app/src/_assets/facebook.svg'
-import linkedin from '/home/Max/Documentos/projetos/react-app/src/_assets/linkedin.svg'
-import github from '/home/Max/Documentos/projetos/react-app/src/_assets/github.svg'
-import twitter from '/home/Max/Documentos/projetos/react-app/src/_assets/twitter.svg'
+import fulllogo from '/home/Max/Documentos/projetos/Questao2/src/_assets/fulllogo.svg'
+import instagram from '/home/Max/Documentos/projetos/Questao2/src/_assets/instagram.svg'
+import facebook from '/home/Max/Documentos/projetos/Questao2/src/_assets/facebook.svg'
+import linkedin from '/home/Max/Documentos/projetos/Questao2/src/_assets/linkedin.svg'
+import github from '/home/Max/Documentos/projetos/Questao2/src/_assets/github.svg'
+import twitter from '/home/Max/Documentos/projetos/Questao2/src/_assets/twitter.svg'
 import './FinalSection.css'
 const btnStyle2 = {
     width: '250px',

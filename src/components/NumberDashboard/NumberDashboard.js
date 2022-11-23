@@ -1,8 +1,8 @@
 import './NumberDashboard.css'
-import item1 from '/home/Max/Documentos/projetos/react-app/src/_assets/dashboarditem.svg'
-import item2 from '/home/Max/Documentos/projetos/react-app/src/_assets/dashboarditem2.svg'
-import item3 from '/home/Max/Documentos/projetos/react-app/src/_assets/dashboarditem3.svg'
-import item4 from '/home/Max/Documentos/projetos/react-app/src/_assets/dashboarditem4.svg'
+import item1 from '/home/Max/Documentos/projetos/Questao2/src/_assets/dashboarditem.svg'
+import item2 from '/home/Max/Documentos/projetos/Questao2/src/_assets/dashboarditem2.svg'
+import item3 from '/home/Max/Documentos/projetos/Questao2/src/_assets/dashboarditem3.svg'
+import item4 from '/home/Max/Documentos/projetos/Questao2/src/_assets/dashboarditem4.svg'
 
 const itemShape = {
     height: '32px',

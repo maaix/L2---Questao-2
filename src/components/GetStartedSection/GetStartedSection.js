@@ -1,5 +1,5 @@
 import './GetStartedSection.css'
-import rightimage from '/home/Max/Documentos/projetos/react-app/src/_assets/RightImage.svg'
+import rightimage from '/home/Max/Documentos/projetos/Questao2/src/_assets/RightImage.svg'
 let btnStyle = {
     background: '#060714',
     color: '#7780A1',

@@ -1,6 +1,6 @@
 
 import './TopSect.css';
-import logo from '/home/Max/Documentos/projetos/react-app/src/_assets/Sygnet.svg'
+import logo from '/home/Max/Documentos/projetos/Questao2/src/_assets/Sygnet.svg'
 const btnStyle = {
   background: '#060714',
   color: '#7780A1',

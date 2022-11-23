@@ -1,11 +1,11 @@
 import './TitleSection.css'
-import background from '/home/Max/Documentos/projetos/react-app/src/_assets/Circles.png'
-import vector1 from '/home/Max/Documentos/projetos/react-app/src/_assets/Vector.png'
-import frame1 from '/home/Max/Documentos/projetos/react-app/src/_assets/Frame.svg'
-import logo1 from '/home/Max/Documentos/projetos/react-app/src/_assets/Vector1.svg'
-import logo2 from '/home/Max/Documentos/projetos/react-app/src/_assets/Vector2.svg'
-import logo3 from '/home/Max/Documentos/projetos/react-app/src/_assets/Vector3.svg'
-import logo4 from '/home/Max/Documentos/projetos/react-app/src/_assets/Vector4.svg'
+import background from '/home/Max/Documentos/projetos/Questao2/src/_assets/Circles.png'
+import vector1 from '/home/Max/Documentos/projetos/Questao2/src/_assets/Vector.png'
+import frame1 from '/home/Max/Documentos/projetos/Questao2/src/_assets/Frame.svg'
+import logo1 from '/home/Max/Documentos/projetos/Questao2/src/_assets/Vector1.svg'
+import logo2 from '/home/Max/Documentos/projetos/Questao2/src/_assets/Vector2.svg'
+import logo3 from '/home/Max/Documentos/projetos/Questao2/src/_assets/Vector3.svg'
+import logo4 from '/home/Max/Documentos/projetos/Questao2/src/_assets/Vector4.svg'
 const subtitle = {
     'text-transform': 'uppercase'
 }
